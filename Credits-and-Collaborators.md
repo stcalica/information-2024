@@ -24,6 +24,14 @@ Eligiblity: Send in a Public Workspace with a Postman collection in it.
 3. [Discover APIs, workspaces, collections, and Flows on the Postman API Network](https://learning.postman.com/docs/getting-started/first-steps/exploring-public-api-network/)
 4. [Prepare your public workspaces for the Postman API Network](https://learning.postman.com/docs/collaborating-in-postman/public-api-network/organizing-your-workspace)
 
+### Useful API Workspaces on the Postman API Network
+
+* [Team Zeus's Climate Change Workspace](https://www.postman.com/team-zeus/workspace/climate-change)
+* [Sienmen's Carbon Footprint Indicator for Transportation API](https://www.postman.com/siemens-ag/workspace/siemens-xcelerator-developer-portal/collection/26645885-64339804-0911-40ad-8c49-0aeb156c7f8c)
+* [API Layer's WeatherStack API](https://www.postman.com/apilayer/workspace/apilayer/collection/10131015-276c4312-f682-425d-b6b1-0f82c0a7f2b3)
+* [Tomorrow.io APIs](https://www.postman.com/postman/free-public-apis/collection/t2w3990/tomorrow-io-api)
+* [NYC Rising Sea Levels](https://www.postman.com/thedaydasource/city-of-new-york/collection/7dujqe5/sea-level-rise-maps-2020s-100-year-floodplain)
+
 
 ## [Vectara](https://vectara.com/) 
 
